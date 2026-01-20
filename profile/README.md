@@ -187,6 +187,13 @@ Meet the talented individuals behind Platanito Solutions:
         <sub>Founder</sub>
       </a>
     </td>
+        <td align="center" width="33%">
+      <a href="https://github.com/Arieloou">
+        <img src="https://github.com/Arieloou.png" width="120px;" alt="Ariel Anchapaxi" style="border-radius: 50%;"/><br />
+        <sub><b>Ariel Anchapaxi</b></sub><br />
+        <sub>Founder</sub>
+      </a>
+    </td>
   </tr>
 </table>
 
