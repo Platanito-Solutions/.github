@@ -172,7 +172,7 @@ Meet the talented individuals behind Kiroku:
       <a href="https://github.com/sekai882">
         <img src="https://github.com/sekai882.png" width="120px;" alt="Josué Mullo" style="border-radius: 50%;"/><br />
         <sub><b>Josué Mullo</b></sub><br />
-        <sub>Project Manager</sub>
+        <sub>Founder</sub>
       </a>
     </td>
   </tr>
